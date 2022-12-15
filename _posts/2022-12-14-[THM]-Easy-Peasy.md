@@ -3,7 +3,7 @@ title: THM - Easy Peasy
 date: 2022-12-14
 categories: [Hacking Ético, Máquinas]
 toc: true
-img_path: /assets/lib/THM-EasyPeasy
+img_path: /assets/img/Maquinas/THM-EasyPeasy
 ---
 
 Write up de la máquina de TryHackMe - Easy Peasy, donde utilizaremos las herramientas Nmap, GoBuster, JohnTheRipper y diferentes métodos de desencriptado.
